@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/havasamson/landingpage/issues"
   },
-  "homepage": "https://github.com/havasamson/landingpage#readme"
+  "homepage": "https://github.com/havasamson/landingpage#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
